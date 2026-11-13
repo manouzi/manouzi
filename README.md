@@ -1,6 +1,6 @@
 # Hamza · Data
 
-**Spécialiste BI (Power BI, SQL), je me forme à la data science et au data engineering.**
+**Spécialiste BI (Power BI, SQL), je suis formé à la data science et au data engineering.**
 Ce profil rassemble mes projets, de la collecte des données jusqu'aux analyses publiées en ligne.
 
 ### Ce que je fais
